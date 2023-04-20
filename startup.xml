@@ -1,4 +1,7 @@
 <TerribleProgramsInstaller>
+    <setting>
+        <UpdateAssets>false</UpdateAssets>
+    </setting>
     <Applications>
         <HelpfulDebuggerV1>
             <available>true</available>
