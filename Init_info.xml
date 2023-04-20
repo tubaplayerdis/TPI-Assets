@@ -1,0 +1,24 @@
+<TerribleProgramsInstaller>
+    <Applications>
+        <HelpfulDebuggerV1>
+            <available>true</available>
+            <download>https://github.com/tubaplayerdis/TPI-Assets/raw/main/TestDownload.txt</download>
+            <CurrentVerion>2.0</CurrentVerion>
+        </HelpfulDebuggerV1>
+        <HelpfulDebuggerV2>
+            <available>true</available>
+            <download>https://github.com/tubaplayerdis/TPI-Assets/raw/main/TestDownload.txt</download>
+            <CurrentVerion>1.0</CurrentVerion>
+        </HelpfulDebuggerV2>
+        <SocialCreditTestGame>
+            <available>fasle</available>
+            <download>null</download>
+            <CurrentVerion>1.0</CurrentVerion>
+        </SocialCreditTestGame>
+        <PasswordGenerator>
+            <available>fasle</available>
+            <download>null</download>
+            <CurrentVerion>1.0</CurrentVerion>
+        </PasswordGenerator>
+    </Applications>
+</TerribleProgramsInstaller>
